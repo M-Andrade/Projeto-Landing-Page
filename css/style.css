@@ -43,7 +43,7 @@ footer{
     margin-top: 4rem;
     margin-left: auto;
     margin-right: auto;
-    max-width: 70%;
+    max-width: 80%;
     padding-top: 3rem;
     position: relative;
     z-index: 1;
@@ -72,10 +72,12 @@ figure{
     border-radius: 10px;
     width: 20%;
     height: 5%;
+    border: solid #fff;
 }
 #r2d2{
     width: 10%;
     height: 5%;
+    border: none;
 }
 @media(min-width: 280px) and (max-width: 820px){
     .imagens-site{
